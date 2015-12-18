@@ -1,0 +1,16 @@
+{
+  "name": "ardumoto-node-xbee",
+  "version": "1.0.0",
+  "description": "Nodebot using the Ardumoto shield and an Xbee shield.",
+  "main": "demo.js",
+  "dependencies": {
+    "johnny-five": "^0.9.17",
+    "keypress": "^0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Willa Riggins",
+  "license": "ISC"
+}
